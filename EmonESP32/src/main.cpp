@@ -1,5 +1,6 @@
 // EmonLibrary examples openenergymonitor.org, Licence GNU GPL V3
-#include "EmonLib.h"    // Include Emon Library
+#include <Arduino.h>
+#include "EmonLib.h"   // Include Emon Library
 #include <WiFi.h>
 #include <HTTPClient.h>
 
